@@ -1,2 +1,2 @@
 #!/bin/bash
-(ls -la ls_cwd_content && echo ls -la)
+(ls ls_cwd_content >> ls_cwd_content 2>&1 && echo ls -la)
