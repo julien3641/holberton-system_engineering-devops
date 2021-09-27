@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E '^([^:]*:){5}/home/' ~/Desktop/e.txt | cut -d: -f1
+cut -d ':' -f 1,6 /etc/passwd | sort
