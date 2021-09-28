@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $(($BINARY#01110100011000010110101101)
+echo $(($BINARY#10))
