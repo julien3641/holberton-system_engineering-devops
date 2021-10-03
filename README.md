@@ -1,4 +1,12 @@
-<img src="hslogo">
+<img src="/assets/holberton-logo-full-blue-e0f79bd0d4415b513ced834f9385df63ba7145c2aa1306e47a06050f777b662f.png")> 
+no-repeat center;
+background-size: auto;
+background-size: contain;
+height: 40px;
+margin: auto;
+width: 40px;
+
+
 
 # FIRST PROJECT IN HOLBERTON SCHOOL
 
