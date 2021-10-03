@@ -4,8 +4,7 @@ Format: ![Holberton logo](/home/duffay/Documents/holberton school/holbertonschoo
 <a href="/home/duffay/Documents/holberton school/holberto\               
 nschool logo.png"> link name </a>
 
-<img src=">/home/duffay/Documents/holberton school/holberto\
-nschool logo.png">
+<img src="/home/duffay/holbertonschool logo.png">
 
 
 # FIRST PROJECT IN HOLBERTON SCHOOL
