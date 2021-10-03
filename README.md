@@ -1,5 +1,10 @@
 # FIRST PROJECT IN HOLBERTON SCHOOL
 
 **First**
-git@github.com:julien3641/holberton-system_engineering-devops.git
-**second**
+
+
+https://github.com/julien3641/holberton-system_engineering-devops/tree/main/0x00-shell_basics - automatic!
+[GitHub](http://github.com)
+
+
+**Second**
