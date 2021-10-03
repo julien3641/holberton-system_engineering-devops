@@ -1,5 +1,4 @@
-![GitHub Logo](/home/duffay/Documents/holberton school/holbertonschool log.png)
-Format: ![Alt Text](url)
+Format: ![Holberton logo](/home/duffay/Documents/holberton school/holbertonschool logo.png)
 
 
 # FIRST PROJECT IN HOLBERTON SCHOOL
