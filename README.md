@@ -1,11 +1,4 @@
-![holberton Logo] (g)
-Format: ![Holberton logo](/home/duffay/Documents/holberton school/holbertonschool logo.png)
-
-<a href="/home/duffay/Documents/holberton school/holberto\               
-nschool logo.png"> link name </a>
-
-<img src="/home/duffay/holbertonschool logo.png">
-
+<img src="holbertonschool logo.png">
 
 # FIRST PROJECT IN HOLBERTON SCHOOL
 
