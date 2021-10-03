@@ -1,11 +1,4 @@
-<img src="/assets/holberton-logo-full-blue-e0f79bd0d4415b513ced834f9385df63ba7145c2aa1306e47a06050f777b662f.png")> 
-no-repeat center;
-background-size: auto;
-background-size: contain;
-height: 40px;
-margin: auto;
-width: 40px;
-
+<img src="https://www.google.fr/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D102418398606970&imgrefurl=https%3A%2F%2Fm.facebook.com%2FHolbertonSchoolLaval%2Fvideos%2F785834105662184%2F&tbnid=_BI-rGH3sHgSMM&vet=12ahUKEwj-lfTE-67zAhXMw-AKHVywADQQMygEegUIARCkAQ..i&docid=RQX8cxTPnl0y5M&w=400&h=400&itg=1&q=holberton%20school%20laval&ved=2ahUKEwj-lfTE-67zAhXMw-AKHVywADQQMygEegUIARCkAQ")> 
 
 
 # FIRST PROJECT IN HOLBERTON SCHOOL
